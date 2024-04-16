@@ -1,0 +1,9 @@
+"16-Apr-24 16:00:37" - root - INFO - pipeline_CR_Analysis foi iniciado...
+"16-Apr-24 16:00:37" - root - INFO - Iniciando o pipeline...
+"16-Apr-24 16:00:37" - ingestao_dos_dados - INFO - Criado o diretório: /home/isaac/aCosmicDebbuger/Credit-Risk-Analysis/src/main/python/Kaggle
+"16-Apr-24 16:00:37" - ingestao_dos_dados - INFO - Fazendo o download dos dados...
+"16-Apr-24 16:10:09" - ingestao_dos_dados - INFO - Arquivos baixados em: /home/isaac/aCosmicDebbuger/Credit-Risk-Analysis/src/main/python/Kaggle
+"16-Apr-24 16:10:13" - root - INFO - Objeto Spark Criado.
+"16-Apr-24 16:10:18" - root - INFO - Validando o objeto Spark usando a data atual: 2024-04-16
+"16-Apr-24 16:10:18" - root - INFO - Objeto Spark validado e pronto.
+"16-Apr-24 16:10:18" - root - INFO - pipeline_CR_Analysis.py foi finalizado.
